@@ -12,4 +12,6 @@
         <exec.mainClass>com.mycompany.ice_04.Ice_04</exec.mainClass>
     </properties>
     <name>ProjectTirath</name>
+    <dependencies>
+    </dependencies>
 </project>
