@@ -13,6 +13,9 @@ on:
     branches: [ "feature/calculator-basic" ]
   pull_request:
     branches: [ "feature/calculator-basic" ]
+    
+permissions:
+   contents: write
 
 jobs:
   build:
